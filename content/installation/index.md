@@ -3,7 +3,7 @@ title = "Installation"
 date = "2024-02-04"
 +++
 
-Please install the following software prior to the beginning of the onboarding. Installation instructions can be found following the the links
+Please install the following software prior to the beginning of the onboarding. Installation instructions can be found following the the links:
 
 * [VS Code](https://code.visualstudio.com/download) 
 * [Git](https://github.com/git-guides/install-git) 
