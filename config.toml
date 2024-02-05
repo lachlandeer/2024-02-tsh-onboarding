@@ -1,0 +1,26 @@
+baseURL = 'http://lachlandeer.github.io/2024-02-tsh-onboarding'
+languageCode = 'en-us'
+title = 'Tilburg Science Hub Onboarding'
+theme = "hugo-theme-console"
+
+
+[params]
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+
+  # Set the animation style -- https://animate.style/
+  # To disable animations, please remove or comment animationStyle parameter
+  animateStyle = "animated zoomIn fast" 
+
+  [[params.navlinks]]
+  name = "schedule/"
+  url = "schedule/"
+
+  [[params.navlinks]]
+  name = "installation/"
+  url = "installation/"
+
+  [[params.navlinks]]
+  name = "posts/"
+  url = "posts/"
+  
