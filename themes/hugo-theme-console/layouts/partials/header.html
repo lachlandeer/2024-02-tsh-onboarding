@@ -1,1 +1,7 @@
 <!-- Keep - override to add code to <header /> tag -->
+<head>
+    <meta charset="utf-8">
+
+    {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
+
+</head>
