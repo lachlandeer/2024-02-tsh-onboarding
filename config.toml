@@ -24,6 +24,10 @@ theme = "hugo-theme-console"
   name = "posts/"
   url = "posts/"
 
+  [[params.navlinks]]
+  name = "tags/"
+  url = "tags/"
+
 [taxonomies]
    tag = "tags"
    category = "categories"

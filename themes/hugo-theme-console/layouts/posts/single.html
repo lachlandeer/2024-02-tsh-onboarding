@@ -10,5 +10,7 @@
 {{ end }}
 <br/><br/>
 {{ .Content }}
+<h3>Tags:</h3>
+{{ partial "tags.html" .}}
 {{ template "_internal/disqus.html" . }}
 {{ end }}
