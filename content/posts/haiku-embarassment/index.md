@@ -1,11 +1,11 @@
 +++
-title = "A Haiku on Embarassment"
+title = "A Haiku on fun"
 date = "2024-02-06"
 categories = ["haiku"]
-tags = ["haiku", "embarassment"]
+tags = ["haiku", "fun"]
 +++
 
 
-Blush blooms, silent waves,
-Eyes avert, secrets unfold,
-Embrace warmth, unseen.
+Amid laughter's dance,
+Joyful moments intertwine,
+Light echoes in hearts.
